@@ -41,7 +41,8 @@ python Task1.py
 Enter the city name when prompted.
 
 📊 Sample Output
-Weather data for the entered city will be printed (temperature, humidity, cloudiness, etc.).
+Weather data for the entered city will be printed (temperature, humidity, cloudiness, etc.)
+![Image](https://github.com/user-attachments/assets/7c30c250-e590-45bc-bb7b-5f0202dc749a)
 
 A bar chart will be shown representing the weather conditions.
 
